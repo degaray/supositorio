@@ -13,3 +13,6 @@ todo
 6. implement results with js algorithms
 7. implement units
 8. implement instructions
+9. implement translations
+10. implement SEO page creation
+11. implement SEO in page
