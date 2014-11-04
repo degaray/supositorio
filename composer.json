@@ -1,7 +1,14 @@
 {
     "require": {
         "silex/silex": "~1.2",
-
-        "doctrine/dbal": "2.2.*"
+        "doctrine/orm": "~2.4",
+        "doctrine/common": "~2.3",
+        "doctrine/dbal": "~2.3",
+        "doctrine/migrations": "1.0.*@dev",
+        "symfony/console": "2.5.5",
+        "symfony/yaml": "~2.4",
+        "symfony/config": "v2.2.0",
+        "symfony/validator": "~2.3",
+        "symfony/dependency-injection": "dev-master"
     }
 }
